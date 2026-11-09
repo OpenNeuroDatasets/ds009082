@@ -44,7 +44,7 @@ Sessions were conducted by Md. Ashikur Rahman, Md Al Nomun, Abu Saleh Md Seam an
 ## Dataset organisation
 
 - `sub-<label>/eeg/` holds one recording per question: `sub-<label>_task-<task>_run-<NN>_eeg.edf` with matching `_events.tsv` and `_channels.tsv`. The run number is the question number (1 to 32).
-- `sub-<label>/sub-<label>_scans.tsv` lists the recordings. Acquisition dates and times were removed (there is no `acq_time` column) and the start date in each EDF header is set to the placeholder 1 January 1985. The date and time in the original EmotivPRO file names are replaced by `*` in `code/bids_mapping.tsv`.
+- `sub-<label>/sub-<label>_scans.tsv` lists the recordings. 
 - `task-<task>_eeg.json` and `task-<task>_events.json` describe the recordings and the event columns.
 - `participants.tsv` lists the participants with age, sex and trial counts. `source_folder` and `source_session_number` link each participant to the original recordings: in both protocols they equal the participant number in the `sub-` label (for example `sub-F18` is `Subject18`).
 - `code/` contains the conversion script and `bids_mapping.tsv`, which maps every EDF file to the original EmotivPRO CSV file.
