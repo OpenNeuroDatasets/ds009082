@@ -75,4 +75,4 @@ CC0 (public domain dedication).
 
 ## Contact
 
-Authors: Md Ashikur Rahman (ar.ashikurrahman27@gmail.com) and Md. Kafiul Islam (kafiul_islam@iub.edu.bd).
+Authors: Md. Ashikur Rahman (ar.ashikurrahman27@gmail.com) , Md Al Nomun (alnoman3940@gmail.com) , Rizu Ahmed (rizuahmedsahil15@gmail.com) , Abu Saleh MD Seam (mdseam123456@gmail.com) , Nazmus Sakib(n.sakib@iub.edu.bd) and Md. Kafiul Islam (kafiul_islam@iub.edu.bd).
