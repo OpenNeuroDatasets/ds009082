@@ -45,6 +45,16 @@ data:
         nameIdentifiers: []
         contributorType: Supervisor
         order: 6
+      - name: MD ASHIKUR RAHMAN
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0009-0008-3484-8161
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 7
     creators:
       - name: Md. Ashikur Rahman
         nameType: Personal
@@ -58,6 +68,9 @@ data:
         nameType: Personal
       - name: Md. Kafiul Islam
         nameType: Personal
+      - name: MD ASHIKUR RAHMAN
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
