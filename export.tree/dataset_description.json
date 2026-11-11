@@ -1,0 +1,26 @@
+{
+    "Name": "EEG Lie Detection Dataset using Emotiv EPOC+: Instructed-Response and Free-Response Protocols",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Md. Ashikur Rahman",
+        "Md Al Nomun",
+        "Rizu Ahmed",
+        "Abu Saleh Md Seam",
+        "Nazmus Sakib",
+        "Md. Kafiul Islam"
+    ],
+    "Acknowledgements": "We thank all the volunteers who took part in the recordings.",
+    "HowToAcknowledge": "Please cite this dataset (OpenNeuro DOI) when you use it.",
+    "EthicsApprovals": [
+        "Institutional Review Board, Independent University, Bangladesh (IUB); research project number 2025-SETS-NSR:04, \"Design and Development of a Lie Detection System Using EEG Signals\"; written IRB certificate dated 4 September 2025; principal investigator Dr. Md. Kafiul Islam"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.17632/3d5frp7rnv.1"
+    ],
+    "Funding": [
+        "No Funding . Supported by the Department of Electrical and Electronic Engineering (EEE), Independent University, Bangladesh"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds009082.v1.0.1"
+}
