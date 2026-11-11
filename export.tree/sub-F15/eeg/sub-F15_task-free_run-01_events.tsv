@@ -1,0 +1,2 @@
+onset	duration	trial_type	question_id	question_category	block	question_text	label_source
+0	7.632812	truth	1	personal_information	1	Is your full name listed correctly on the university portal?	self_report
