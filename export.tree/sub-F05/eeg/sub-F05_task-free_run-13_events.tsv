@@ -1,0 +1,2 @@
+onset	duration	trial_type	question_id	question_category	block	question_text	label_source
+0	7.484375	truth	13	general_knowledge	2	Is 5 greater than 15?	self_report
