@@ -1,0 +1,67 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: MD ASHIKUR RAHMAN
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0009-0008-3484-8161
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: Md Al Nomun
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Rizu Ahmed
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Abu Saleh Md Seam
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Nazmus Sakib
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 5
+      - name: Md. Kafiul Islam
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 6
+    creators:
+      - name: MD ASHIKUR RAHMAN
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Md Al Nomun
+        nameType: Personal
+      - name: Rizu Ahmed
+        nameType: Personal
+      - name: Abu Saleh Md Seam
+        nameType: Personal
+      - name: Nazmus Sakib
+        nameType: Personal
+      - name: Md. Kafiul Islam
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
