@@ -67,7 +67,7 @@ Each `events.tsv` has a single row covering the whole recording, with the label 
 
 ## Ethics
 
-The study was approved by the Institutional Review Board of Independent University, Bangladesh (project number 2025-SETS-NSR:04). The board gave verbal approval in June 2025, before data collection started, and issued the written certificate of approval on 4 September 2025. All participants gave written informed consent before taking part. Participants are identified only by anonymous labels. Names, student IDs and contact details that were written on paper forms during data collection are not part of this dataset. Consent for sharing the de-identified data publicly was obtained from the participants, and the IRB confirmed that the data may be shared publicly.
+The study was approved by the Institutional Review Board of Independent University, Bangladesh (project number 2025-SETS-NSR:04). All participants gave written informed consent before taking part. Participants are identified only by anonymous labels. Names, student IDs and contact details that were written on paper forms during data collection are not part of this dataset. Consent for sharing the de-identified data publicly was obtained from the participants, and the IRB confirmed that the data may be shared publicly.
 
 ## License
 
